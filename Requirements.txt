@@ -1,0 +1,6 @@
+The Python Libraries used are,﻿
+1. pandas
+2. numpy
+3. matplotlib
+4. scikit-learn
+5.seaborn
